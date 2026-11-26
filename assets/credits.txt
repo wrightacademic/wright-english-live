@@ -1,0 +1,2 @@
+Photographs: cat: Stefan van der Walt · CC0; coffee: Rachel Michetti · CC0; astronaut: NASA · public domain; rocket: SpaceX · public domain; space: NASA · public domain. Source and rights documentation: https://scikit-image.org/docs/stable/api/skimage.data.html .
+Teacher photographs: supplied by Mishael Wright for this site. Confirm photographer permission before public use.
